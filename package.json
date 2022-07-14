@@ -1,0 +1,19 @@
+{
+  "name": "com.drsmugleaf.medusa",
+  "version": "1.0.0",
+  "displayName": "Medusa",
+  "description": "A text parser for dynamic writing",
+  "unity": "2022.1",
+  "unityRelease": "8f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {},
+  "keywords": [
+  ],
+  "author": {
+    "name": "DrSmugleaf",
+    "email": "drsmugleaf@gmail.com",
+    "url": "https://github.com/DrSmugleaf"
+  }
+}
